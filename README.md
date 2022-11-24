@@ -8,10 +8,6 @@ Redux와 React 훅 사용을 연습하기 위해
 
 ## 배운것들
 
-[Redux 정리](https://velog.io/@belisy/series/redux)  
-[React 정리](https://velog.io/@belisy/series/react)
-
-(간략)  
 Redux 환경을 셋팅하는 법을 배웠고,  
 subReducer들을 rootReducer에 담아서 index.js파일에 연결시키고,  
 component에 연결시켜서 컴포넌트 단위로 구현하는 법을 배웠습니다.  
